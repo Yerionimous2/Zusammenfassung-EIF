@@ -1,0 +1,41 @@
+% config.tex
+\usepackage{tcolorbox}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\tcbuselibrary{listings, skins, breakable}
+
+\newcounter{block}[section]
+\renewcommand{\theblock}{\thesection.\arabic{block}}
+
+% Automatisches Zurücksetzen von block bei jedem \section
+\usepackage{etoolbox}
+\preto\section{\setcounter{block}{0}}
+
+\newtcolorbox{block}[1]{%
+  enhanced,
+  breakable,
+  colback=green!5!white,
+  colframe=green!65!black,
+  coltitle=black,
+  fonttitle=\bfseries,
+  title=\thesection.\number\numexpr\value{block}+1\relax\ #1,
+  before upper={},
+  after upper={\stepcounter{block}},
+  boxrule=0.8pt,
+  arc=0mm,
+  left=1mm,
+  right=1mm,
+  top=1mm,
+  bottom=1mm,
+}
+
+\newenvironment{beweis}[1][Beweis]{
+  \par\noindent\textbf{#1.}\\ 
+}{
+    \hfill \framebox[1.5ex][c]{}
+    \par\vspace{2em}
+    \noindent
+}

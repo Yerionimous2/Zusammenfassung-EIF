@@ -1,0 +1,21 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Didaktische Dimensionen}{2}{}%
+\contentsline {section}{\numberline {2}Hintergrund und Modelle}{2}{}%
+\contentsline {section}{\numberline {3}Informatikdidaktik}{3}{}%
+\contentsline {section}{\numberline {4}Wissenschaftliche Perspektive}{3}{}%
+\contentsline {section}{\numberline {5}Normenproblem \& Bildungsbegriff}{4}{}%
+\contentsline {section}{\numberline {6}Gestaltung von Unterricht}{4}{}%
+\contentsline {section}{\numberline {7}Lernumgebungen (Beispiele)}{4}{}%
+\contentsline {section}{\numberline {8}Zusammenfassung: Prüfungsrelevantes Wissen Teil A}{4}{}%
+\contentsline {section}{\numberline {9}Informatische Bildung}{5}{}%
+\contentsline {section}{\numberline {10}Orientierungen und Konzepte}{5}{}%
+\contentsline {section}{\numberline {11}Bildungsstandards und Schulstufen}{6}{}%
+\contentsline {section}{\numberline {12}Beruf und Wissenschaftspropädeutik}{6}{}%
+\contentsline {section}{\numberline {13}Internationale Perspektiven}{7}{}%
+\contentsline {section}{\numberline {14}Digitale Mündigkeit und aktuelle Entwicklungen}{7}{}%
+\contentsline {section}{\numberline {15}Zusammenfassung: Prüfungsrelevantes Wissen Teil B}{7}{}%
+\contentsline {section}{\numberline {16}Thema C: Was ist Informatik}{8}{}%
+\contentsline {section}{\numberline {17}Zusammenfassung: Prüfungsrelevantes Wissen Teil C}{10}{}%
+\contentsline {section}{\numberline {18}Elemente der Unterrichtsgestaltung}{10}{}%
+\contentsline {section}{\numberline {19}Elementarisierung und didaktische Reduktion}{14}{}%
+\contentsline {section}{\numberline {20}Lerntheorien}{14}{}%
