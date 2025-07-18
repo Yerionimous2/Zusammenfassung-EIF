@@ -5,6 +5,8 @@
 \usepackage[ngerman]{babel}
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
+\usepackage{array}
+
 \tcbuselibrary{listings, skins, breakable}
 
 \newcounter{block}[section]
@@ -13,6 +15,8 @@
 % Automatisches Zurücksetzen von block bei jedem \section
 \usepackage{etoolbox}
 \preto\section{\setcounter{block}{0}}
+
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
 
 \newtcolorbox{block}[1]{%
   enhanced,
