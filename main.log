@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.9)  18 JUL 2025 09:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.9)  18 JUL 2025 10:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -553,40 +553,44 @@ Overfull \hbox (72.53984pt too wide) in paragraph at lines 602--602
 [22
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 969--991
+
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 1002--1024
 []\T1/cmr/m/n/10 Jedes die-ser Punk-te kann of-fen oder ge-schlos-sen sein,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 969--991
+Underfull \hbox (badness 10000) in paragraph at lines 1002--1024
 \T1/cmr/m/n/10 führt al-so zu 8 ver-schie-de-nen Auf-ga-ben-klas-si-fi-ka-tio-nen:
  []
 
 
 
-[23]
-
 [24]
 
-[25] (./main.aux)
+[25]
+
+[26]
+
+[27] (./main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 20316 strings out of 473190
- 423044 string characters out of 5715801
- 838596 words of memory out of 5000000
- 43251 multiletter control sequences out of 15000+600000
+ 20323 strings out of 473190
+ 423159 string characters out of 5715801
+ 837596 words of memory out of 5000000
+ 43258 multiletter control sequences out of 15000+600000
  565403 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  121i,10n,124p,512b,1064s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on main.pdf (26 pages, 197715 bytes).
+Output written on main.pdf (28 pages, 202380 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
+ 135 PDF objects out of 1000 (max. 8388607)
+ 89 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  18 words of extra memory for PDF output out of 10000 (max. 10000000)
 
