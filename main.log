@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.9)  18 JUL 2025 11:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.4.9)  20 JUL 2025 12:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -530,7 +530,7 @@ Underfull \hbox (badness 1082) in paragraph at lines 400--401
 [13]
 
 [14]
-Overfull \hbox (72.53984pt too wide) in paragraph at lines 602--602
+Overfull \hbox (72.53984pt too wide) in paragraph at lines 601--601
 []\T1/cmr/bx/n/14.4 Unterichtsmethoden, -prinzipien und -konzepte/Modelle 
  []
 
@@ -555,12 +555,12 @@ Overfull \hbox (72.53984pt too wide) in paragraph at lines 602--602
 ]
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 1002--1024
+Underfull \hbox (badness 10000) in paragraph at lines 1000--1022
 []\T1/cmr/m/n/10 Jedes die-ser Punk-te kann of-fen oder ge-schlos-sen sein,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1002--1024
+Underfull \hbox (badness 10000) in paragraph at lines 1000--1022
 \T1/cmr/m/n/10 führt al-so zu 8 ver-schie-de-nen Auf-ga-ben-klas-si-fi-ka-tio-nen:
  []
 
@@ -595,7 +595,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  121i,10n,124p,512b,1064s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb>
-Output written on main.pdf (32 pages, 211385 bytes).
+Output written on main.pdf (32 pages, 210993 bytes).
 PDF statistics:
  148 PDF objects out of 1000 (max. 8388607)
  98 compressed objects within 1 object stream
